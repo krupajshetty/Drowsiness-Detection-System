@@ -1,0 +1,8 @@
+numpy
+opencv-python
+imutils
+keras
+tensorflow
+playsound
+scipy
+dlib
